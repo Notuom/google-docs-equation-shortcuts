@@ -2,7 +2,7 @@
  * Google Docs equation toolbar icon styles.
  * No copyright infringement intended.
  * This is only used to make life easier for fellow Google Docs users.
- * 
+ *
  * Copyright 2017 Google Inc.
  */
 
@@ -18,7 +18,9 @@
 
  /* Icons for the equation characters */
 .eqn-shortcut-icon {
-    background-image: url(../img/ee-palettes.gif)
+    background-image: url(../img/ee-palettes.gif);
+		width: 18px;
+		height: 18px;
 }
 
 /* Palette icons for sections */

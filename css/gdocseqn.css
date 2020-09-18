@@ -8,45 +8,45 @@
 
 /* Navigation */
 .back-to-top {
-	font-size: 14px;
+  font-size: 14px;
 }
 
 /* Table layout */
 .table td {
-	width: 50%;
+  width: 50%;
 }
 
- /* Icons for the equation characters */
+/* Icons for the equation characters */
 .eqn-shortcut-icon {
-    background-image: url(../img/ee-palettes.gif);
-		width: 18px;
-		height: 18px;
+  background-image: url(../img/ee-palettes-2.gif);
+  width: 18px;
+  height: 18px;
 }
 
 /* Palette icons for sections */
 .eqn-title-icon {
-	display: inline-block;
-    background-image: url(../img/ee-palettes.gif);
-    width: 29px;
-    height: 18px
+  display: inline-block;
+  background-image: url(../img/ee-palettes-2.gif);
+  width: 29px;
+  height: 18px;
 }
 
 .eqn-title-icon-character {
-    background-position: -4px 0
+  background-position: -4px 0;
 }
 
 .eqn-title-icon-misc {
-    background-position: -50px 0
+  background-position: -50px 0;
 }
 
 .eqn-title-icon-relation {
-    background-position: -96px 0
+  background-position: -96px 0;
 }
 
 .eqn-title-icon-integral {
-    background-position: -142px 0
+  background-position: -142px 0;
 }
 
 .eqn-title-icon-arrow {
-    background-position: -188px 0
+  background-position: -188px 0;
 }
